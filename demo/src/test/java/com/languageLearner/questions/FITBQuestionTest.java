@@ -4,9 +4,9 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 import java.util.UUID;
-import com.learner.model.innerdata.TextObject; // Ensure this import is correct
+import com.learner.model.innerdata.TextObject; 
 import com.learner.model.questions.FITBQuestion;
-import com.learner.model.mocks.MockGameManager; // Use this if you have a mock
+import com.learner.model.mocks.MockGameManager; 
 
 public class FITBQuestionTest {
 

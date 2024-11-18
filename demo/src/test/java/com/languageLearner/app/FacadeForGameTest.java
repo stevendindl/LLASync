@@ -36,6 +36,7 @@ public class FacadeForGameTest {
         // Create randomm language
         Language lang = new Language(UUID.randomUUID(), "Random Language");
         gameManager.initializeLanguage(lang);
+        this.languageUUID = lang.getUUID();
         
         // Set up game and related data
         gameUUID = UUID.randomUUID();

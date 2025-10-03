@@ -14,7 +14,7 @@
 
 
 ## See what we did!
-Get an idea of the final project with the graphical sser interface video walk-through on YouTube here or scroll down to check out the screenshots.
+Get an idea of the final project with the graphical user interface video walk-through on YouTube here or scroll down to check out the screenshots.
 [![Video Walk-through](demo/ref-img/video-img.png)](https://youtu.be/9BkRCLGuQPQ)
 
 

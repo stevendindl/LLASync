@@ -52,7 +52,7 @@ Get an idea of the final project with the graphical user interface video walk-th
 ### Matching Question
 <img src="demo/ref-img/q3.png" alt="screen" width="500"/>
 
-### Matching Question
+### Passed!
 <img src="demo/ref-img/passed.png" alt="screen" width="500"/>
 
 ### More
